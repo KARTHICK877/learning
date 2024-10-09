@@ -3,6 +3,7 @@
     "bcryptjs": "^2.4.3",
     "express": "^4.21.0",
     "express-session": "^1.18.0",
+    "gitignore": "^0.7.0",
     "init": "^0.1.2",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.7.0",
